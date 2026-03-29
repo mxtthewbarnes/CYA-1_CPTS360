@@ -11,5 +11,10 @@ recieved a job offer.
 - 400+ total applications over the last ~24 months with continuted effort this semester, although it is quite late in the cycle.
 - 4 Interviews Secured:
     - Fischer Investments - IT Intern
-    - ITRON mobile development intern
-    - SEL software engineer intern (x2)
+    - ITRON - Mobile Development Intern
+    - SEL - Software Engineer Intern (x2)
+- Application materials
+    - Progression of Resumes (/materials/)
+    - Cover Letters used (/materials/)
+    - Interview Confirmation Proof (/interviews/)
+    - Reflction (/REFLECTION.md/)
