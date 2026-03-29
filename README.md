@@ -1,1 +1,2 @@
-# CYA-1_CPTS360
+# CYA-1 --- CPTS360
+## Adventure Description
