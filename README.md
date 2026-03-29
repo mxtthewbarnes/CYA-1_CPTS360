@@ -1,7 +1,8 @@
 # CYA-1 --- CPTS360
 ## 1) Adventure Description
-For the first 'CYA' assignment, i've chosen to use my current internship search. Over the last ~2 years, 
-I've applied to over 400+ software engineering internship roles. I've secured 4 interviews total but have not
+For the first 'Choose Your Own Adventure' assignment, i've chosen to use my current internship search. Over the last ~2 years, I've applied to over 400+ software engineering internship roles. I've secured 4 interviews total but have not
 recieved a job offer. 
 
 ## 2) Career Goals 
+Short-term: My immediate goal is to secure an internship in any capacity (software, data, IT, etc.) Getting my foot in the door with a few months of experience pre-graduation is of the utmost importance. 
+Long-term: Land a full-time position, preferably in mobile/web development, with good oppurtunities for upward growth and a healthy work-life balance. I hope to find a job that provides a clear path to senior/lead roles, and ideally a company where engineering is the primary focus as opposed to a peripheral. 
