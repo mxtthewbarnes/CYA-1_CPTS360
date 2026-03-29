@@ -15,6 +15,6 @@ recieved a job offer.
     - SEL - Software Engineer Intern (x2)
 - Application materials
     - Progression of Resumes (/materials/)
-    - Cover Letters used (/materials/) //I didn't save 99% of the cover letters i've used
+    - A couple of Cover Letters used (/materials/) 
     - Interview Confirmation Proof (/interviews/)
     - Reflction (/REFLECTION.md/)
