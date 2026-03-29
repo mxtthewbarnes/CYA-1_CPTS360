@@ -1,0 +1,21 @@
+# Reflection
+
+## Activity Description:
+The goal of this assignment is to encourage us to engage in career-aligned activities totaling 11.5 or more hours of effort. Obviously, i've chosen to document and submit my job-search journey over the last ~24 months. During this time period, I've continuously submitted applications for internship/entry-level work using every platform available to me (Handshake, LinkedIn, github boards, Indeed, etc.). Through the 400+ applications i've submitted, I heard back from 3 companies. I interviewed at SEL on 4 seperate occasions, making it to the final round but ultimately not recieving an offer. ITRON expressed interest recently and booked me for two rounds of interviews, but did not result in a job offer. Fisher Investments interviewed me once but I did not make it past the first round. The total time I've put forth in my job search over just the last 3 months totals well over 11.5 hours, I spent somewhere in the ballpark of 12 total hours preparing for the second-round SEL interview alone. 
+
+## Techincal and Professional Decisions
+A few of the significant strategic decisions I've made during this search include: casting a wide net, applying as early as possible, and seeking referrals from friends and acquaintances. 
+- Casting a wide net: In understanding that I have no professional experience in the software industry and can't be picky about oppurtunities, I've chosen to apply to anything and everything a Computer Science degree can qualify me for. This might include data scientist/analyst roles, IT roles, etc. 
+- Applying as early as possible: I found the listing for the ITRON role within a day of it being posted. I applied immediately and heard back from HR within a few days. In a time where the market is oversaturated with the majority of students having a resume similar to mine, sometimes what sets you apart from the crowd is simply just getting your resume on the top of the stack. I had a similar experience in applying early with Fisher Investments and secured an interview with them as well. 
+- Seeking referrals: I know dozens of people that work as full-time Electrical and Software Engineers at SEL with a handful of them being close friends. After a few months of submitting applications and hearing nothing back from HR, I turned to my connections within the company and asked for referrals. I've gotten an interview each time I've been referred by them. 
+
+## Contributions
+This was all independant work. 
+
+## Quality Assessment
+The number of applications i've submitted is good but far from the highest I've heard. With 400+ applications I've got just under a 1% response rate. This can be partially attributed to having, say, 400 applications instead of 800. However, I think that my response rate says more about my lack of experience and/or lackluster resume. 
+As this cycle comes to a close, I think it's important to reflect on the good and bad. The good being that I did recieve a number of interviews. The bad obviously being that I have nothing to show for it. My plan going in to the next cycle is to rework the 'Projects' section of my resume. I'll use my time over the summer to build impressive full-stack applications that showcase my skillset and creativity. Additionally, I'll try and bolster my resume with more undergrad research. 
+In summary, I will use what I learned this cycle to strengthen my resume, rethink my approach to applying, and network with potential leads on platforms such as LinkedIn in the hopes of garnering more connections in the field and potentially a referral. 
+
+## Career Alignment
+The experience outlined in this assignment directly advances my short-term goal of securing an internship whether I have anything to show for it now or not. Each and every interview I get helps to build important skills (i.e. explaining my thought process to others, working under pressure, reading a room, etc). It can be hard to take any positives out of two consecutive summers without an internship, but applying and interviewing will get me to my goal eventually. 
